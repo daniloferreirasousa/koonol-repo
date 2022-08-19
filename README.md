@@ -7,6 +7,6 @@
 <pre>KOONOL é um sistema de classificados
 Inicialmente a ideia é desenvolver um sistema onde se pode encontrar diferentes tipos de produtos para comprar
 </pre>
-
-<h3>Meu Linkedin:</h3>
-<a href="https://www.linkedin.com/in/danilo-ferreira-ba748b160/">Danilo Ferreira></a>
+<hr/>
+<h4>Linkedin:</h4>
+<a href="https://www.linkedin.com/in/danilo-ferreira-ba748b160/">Danilo Ferreira</a>
