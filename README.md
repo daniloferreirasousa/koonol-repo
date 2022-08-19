@@ -1,7 +1,7 @@
 <!-- Sistema desenvolvido por Danilo de Andrade Ferreira Sousa, em 18 de agosto de 2022 -->
 <pre>
-  Version: <span style="color:green">1.0.0</span>
-  LICENSE: <span style="color:orange">MIT</span>
+  Version: <span style="color:#00FF00;">1.0.0</span>
+  LICENSE: <span style="color:FF0000;">MIT</span>
 </pre>
 <hr/>
 <br/>
