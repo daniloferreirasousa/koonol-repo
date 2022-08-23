@@ -8,6 +8,7 @@
 Inicialmente a ideia é desenvolver um sistema onde se pode encontrar diferentes tipos de produtos para comprar
 </pre>
 <hr/>
-<a href="https://koonol.000webhostapp.com/konol/"><h3>KOONOL Store</h3></a><br/><br/>
+<h4>Acesse:</h4><br/>
+<a href="https://koonol.000webhostapp.com/konol/">KOONOL</a><br/><br/>
 <h4>Linkedin:</h4>
 <a href="https://www.linkedin.com/in/danilo-ferreira-ba748b160/">Danilo Ferreira</a>
