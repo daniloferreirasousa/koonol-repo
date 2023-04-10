@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="<?= BASE_URL; ?>assets/css/style.css" />
 </head>
 <body>
-    <?=md5('1204@Dan.');?>
+    <?=md5('1234');?>
     <nav class="navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
